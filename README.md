@@ -1,5 +1,8 @@
 # terminal-color-changer
 Initial commit: Basic command-line program with color support
+Check the Output by following command:
+1) gcc -o kernel kernel.c
+2) ./kernel
 
 With the provided code, you can use the following commands:
 
